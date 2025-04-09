@@ -35,7 +35,7 @@ The Netflix Dashboard allows users to:
 
 ## 📷 Dashboard Preview
 
-![Netflix Dashboard](./Netflix_Dashboard.png)
+![Netflix Dashboard](./Netflix.png)
 
 ---
 
